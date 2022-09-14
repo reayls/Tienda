@@ -1,0 +1,10 @@
+C:\Users\Deary\Documents\Proyectos de .net\ProyectoTienda\ProyectoTienda\bin\Debug\ProyectoTienda.exe.config
+C:\Users\Deary\Documents\Proyectos de .net\ProyectoTienda\ProyectoTienda\bin\Debug\ProyectoTienda.exe
+C:\Users\Deary\Documents\Proyectos de .net\ProyectoTienda\ProyectoTienda\bin\Debug\ProyectoTienda.pdb
+C:\Users\Deary\Documents\Proyectos de .net\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.AssemblyReference.cache
+C:\Users\Deary\Documents\Proyectos de .net\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.Form1.resources
+C:\Users\Deary\Documents\Proyectos de .net\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\Deary\Documents\Proyectos de .net\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.GenerateResource.cache
+C:\Users\Deary\Documents\Proyectos de .net\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CoreCompileInputs.cache
+C:\Users\Deary\Documents\Proyectos de .net\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.exe
+C:\Users\Deary\Documents\Proyectos de .net\ProyectoTienda\ProyectoTienda\obj\Debug\ProyectoTienda.pdb
